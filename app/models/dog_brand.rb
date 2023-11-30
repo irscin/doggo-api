@@ -1,0 +1,2 @@
+class DogBrand < ApplicationRecord
+end
